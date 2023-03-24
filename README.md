@@ -1,6 +1,6 @@
-# Hi 👋 I’m Abeeb Raheem
+# Hi 👋 my name is Abeeb
 
-#### A dedicated Full Stack engineer.
+#### I am a backend software developer, analytic thinker, and problem solver. 
 
 - 💥 I’m currently working with Nodejs, JavaScript, Python, C and the MERN stack.
 
