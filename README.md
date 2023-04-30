@@ -1,10 +1,10 @@
 # Hi 👋 my name is Abeeb
 
-I am a backend software developer, analytic thinker, and problem solver.
+I am a backend software engineer, analytic thinker, and problem solver.
 
 - 💥 I’m currently working with Nodejs, JavaScript, Python, C and the MERN stack.
 
-- ✨ I focus majorly on building backend Logic and RESTful API
+- ✨ I focus majorly on building business Logic and RESTful APIs
 - 📫 Reach me on [Whatsapp](+2348109211864), [Twitter](https://twitter.com/beloved_tech), [Linkedin](https://www.linkedin.com/in/belovetech0211/)
 
 <!---
