@@ -1,4 +1,4 @@
-# Hi 👋 my name is Abeeb
+# Hi 👋 my name is Abeeb Raheem
 
 I am a backend software engineer, analytic thinker, and problem solver.
 
