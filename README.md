@@ -1,3 +1,7 @@
+
+### Hi there👋
+[![wakatime](https://wakatime.com/badge/user/19e116f8-a477-40c5-8eb6-3be7fd0011ae.svg)](https://wakatime.com/@19e116f8-a477-40c5-8eb6-3be7fd0011ae)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -14,16 +18,16 @@
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=belovetech&style=flat-square&color=blue" alt=""/>
-
-  <h1>
-     Hi there👋, I'm Abeeb Raheem
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
+
+# I am Abeeb Raheem 
+---
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 
 ---
 
@@ -57,11 +61,26 @@ I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=belovetech&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=belovetech&theme=dark&hide_border=true&border_radius=3.9&card_width=507)](https://git.io/streak-stats)
 
+<h3>💻 Weekly Stats</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=belovetech&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="Belovetech's GitHub stats" />
+  </a>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech" alt="Belovetech's Coding stats" />
+</p>
 
 <!---
+### :fire: Top Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 belovetech/belovetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
