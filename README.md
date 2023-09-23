@@ -28,7 +28,7 @@
 ### :woman_technologist: About Me :
 --->
 
-I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 - :telescope: Specializing in Node.js, TypeScript, JavaScript, Python, SQL, and NoSQL technologies.
 
