@@ -21,21 +21,16 @@
 </div>
 
 # I am Abeeb Raheem 
----
-
-
+<!---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-
----
-
 ### :woman_technologist: About Me :
+--->
 
 I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer using Nodejs, Typescript, JavaScript, Python, SQL and NoSQL.
+- :telescope: I'm a Software Engineer specializing in Node.js, TypeScript, JavaScript, Python, SQL, and NoSQL technologies.
 
 - :seedling: Exploring DevOps and Technical Content Writing.
 
@@ -59,8 +54,7 @@ I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### :fire: My Stats :
-
+### :fire: My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=belovetech&theme=dark&hide_border=true&border_radius=3.9&card_width=507)](https://git.io/streak-stats)
 
 <h3>💻 Weekly Stats</h3>
