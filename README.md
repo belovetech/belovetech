@@ -42,14 +42,22 @@ I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![Website](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Website](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Website](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Website](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Website](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Website](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nest.js&logoColor=white)
 ![Website](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Website](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Website](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&style=for-the-badge&logo=mysql&logoColor=white)
-![Website](https://img.shields.io/badge/PostgreSQL-13.0-%234ea94b?logo=postgresql&style=for-the-badge&logo=postgresql&logoColor=white)
-![Website](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Website](https://img.shields.io/badge/Fast%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Website](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Website](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Website](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Website](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Website](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Website](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge)
+![Website](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Website](https://img.shields.io/badge/gRPC-006400?style=for-the-badge&logo=grpc)
+![Website](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ---
