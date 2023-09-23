@@ -30,7 +30,7 @@
 
 I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I'm a Software Engineer specializing in Node.js, TypeScript, JavaScript, Python, SQL, and NoSQL technologies.
+- :telescope: Specializing in Node.js, TypeScript, JavaScript, Python, SQL, and NoSQL technologies.
 
 - :seedling: Exploring DevOps and Technical Content Writing.
 
