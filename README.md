@@ -21,12 +21,6 @@
 </div>
 
 # I am Abeeb Raheem 
-<!---
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-### :woman_technologist: About Me :
---->
 
 A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
@@ -39,9 +33,9 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: How to reach me: [Whatsapp](+2348109211864)
 
 
----
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
+
 ![Website](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Website](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Website](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -60,30 +54,71 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Website](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
----
 
-### :fire: My Stats 
+ ## :fire: Github Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=belovetech&theme=dark&hide_border=true&border_radius=3.9&card_width=507)](https://git.io/streak-stats)
-
-<h3>💻 Weekly Stats</h3>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=belovetech&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="Belovetech's GitHub stats" />
+ <div align="center">
+   <div >
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  height="145em" src="https://github-readme-stats.vercel.app/api?username=belovetech&hide_title=false&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=false&line_height=25" alt="Belovetech's GitHub stats" />
   </a>
+   </div>
+  &nbsp;
+   <a href="https://github.com/anuraghazra/github-readme-streak-stats">
+     <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=belovetech&theme=dark&hide_border=true">
+   </a>
+  &nbsp;
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--      <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=belovetech&layout=compact&card_width=400&hide_title=true&theme=dark&langs_count=12&hide_border=true&hide_progress=true"> -->
+     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech&theme=dark&card_width=400&hide_border=true&langs_count=10&hide_progress=true">
+   </a>
+  &nbsp;
+</div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech" alt="Belovetech's Coding stats" />
-</p>
+
+## 💻 Wakatime Weekly Stats:
+
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech&theme=dark" alt="Belovetech's Coding stats" />
+  </a>
+</div>
+
+
+
+
 
 <!---
-### :fire: Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 belovetech/belovetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
+<!---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=belovetech&theme=dark&hide_border=true&border_radius=3.9&card_width=507)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="[https://git.io/streak-stats](https://github.com/anuraghazra/github-readme-stats)">
+  </a>
+
+---
+<div>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=belovetech&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="Belovetech's GitHub stats" />
+  </a>
+  
+  <h3>:fire: My Stats</h3>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=belovetech&theme=dark&hide_border=true&border_radius=3.9&card_width=507" alt="Belovetech's GitHub Streak" />
+
+ <!-- <h3>:fire: Top Languages</h3> -->
+  <!-- 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech&layout=compact&theme=dark&hide_border=true&border_radius=3.9&card_width=480&card_height=550" alt="Belovetech's GitHub Streak" />
+</div>
+--->
+
+<!---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+### :woman_technologist: About Me :
 --->
