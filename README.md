@@ -30,7 +30,7 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Hackerank and read tech articles.
 
-- :mailbox: How to reach me: [Whatsapp](+2348109211864)
+- :mailbox: How to reach me: [Linkedin](https://www.linkedin.com/in/belovetech)
 
 
 
