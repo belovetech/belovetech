@@ -24,7 +24,7 @@
 
 A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: Specializing in Node.js, TypeScript, JavaScript, Python, SQL, and NoSQL technologies.
+- :telescope: Specializing in Node.js, Python, Golang, TypeScript, JavaScript, SQL, and NoSQL technologies.
 
 - :seedling: Exploring DevOps and Technical Content Writing.
 
@@ -79,6 +79,10 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 💻 Wakatime Weekly Stats:
 
 <div align="center">
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech" alt="Belovetech's Coding stats" />
+ </p>
+  
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech&theme=dark" alt="Belovetech's Coding stats" />
   </a>
