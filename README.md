@@ -79,9 +79,9 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 💻 Wakatime Weekly Stats:
 
 <div align="center">
-  <p>
+<!--   <p>
   <img src="https://wakatime.com/share/@belovetech/6faab2b9-36cf-4fae-bf3d-f9fdd06ed5b5.svg" alt="Belovetech's Coding stats" />
- </p>
+ </p> -->
   
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech&theme=dark" alt="Belovetech's Coding stats" />
