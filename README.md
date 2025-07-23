@@ -79,21 +79,14 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 💻 Wakatime Weekly Stats:
 
 <div align="center">
-<!--   <p>
-  <img src="https://wakatime.com/share/@belovetech/6faab2b9-36cf-4fae-bf3d-f9fdd06ed5b5.svg" alt="Belovetech's Coding stats" />
- </p> -->
   
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech&theme=dark" alt="Belovetech's Coding stats" />
   </a>
 
-   <figure>
-     <embed src="https://wakatime.com/share/@belovetech/6561c143-2f42-412a-ae32-783d6a391ef9.svg"></embed>
-   </figure>
-
-   <p>
-    <img src="https://github.com/user-attachments/assets/6561c143-2f42-412a-ae32-783d6a391ef9" height="240" width="860" />
-  </p>
+  <figure>
+    <img src="https://wakatime.com/share/@belovetech/4c0505a2-cb2c-4859-a5ac-3814224a15a3.svg" alt="WakaTime Coding Stats">
+  </figure>
   
 </div>
 
