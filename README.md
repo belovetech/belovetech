@@ -86,6 +86,8 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech&theme=dark" alt="Belovetech's Coding stats" />
   </a>
+
+  <figure><embed src="https://wakatime.com/share/@belovetech/6561c143-2f42-412a-ae32-783d6a391ef9.svg"></embed></figure>
 </div>
 
 
