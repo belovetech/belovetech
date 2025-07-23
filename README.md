@@ -92,7 +92,7 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    </figure>
 
    <p>
-    <img src="https://github.com/user-attachments/assets/4b5044d7-f86f-4a86-9892-4cc0795957ba" height="240" width="860" />
+    <img src="https://github.com/user-attachments/assets/6561c143-2f42-412a-ae32-783d6a391ef9" height="240" width="860" />
   </p>
   
 </div>
