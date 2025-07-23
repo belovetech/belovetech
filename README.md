@@ -24,7 +24,7 @@
 
 A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: Specializing in Node.js, Python, Golang, TypeScript, JavaScript, SQL, and NoSQL technologies.
+- :telescope: Specializing in Golang, Node.js, Python, TypeScript, JavaScript, SQL, and NoSQL technologies.
 
 - :seedling: Exploring DevOps and Technical Content Writing.
 
