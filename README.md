@@ -55,10 +55,12 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <a><img src="https://img.shields.io/badge/gRPC-006400?style=plastic&logo=grpc"></a>
       <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"></a>
     </p>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <div align="center">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--    <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=belovetech&layout=compact&card_width=400&hide_title=true&theme=dark&langs_count=12&hide_border=true&hide_progress=true"> -->
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech&theme=dark&card_width=400&hide_border=true&langs_count=6&hide_progress=true">
    </a>
+   </div>
   </div>
 
 <!--     <figure>
