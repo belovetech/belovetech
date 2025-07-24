@@ -62,11 +62,11 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
      <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  height="145em" src="https://github-readme-stats.vercel.app/api?username=belovetech&hide_title=false&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_rank=false&line_height=25" alt="Belovetech's GitHub stats" />
   </a>
-   </div>
-  &nbsp;
+ 
    <a href="https://github.com/anuraghazra/github-readme-streak-stats">
      <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=belovetech&theme=dark&hide_border=true">
    </a>
+  </div>
   &nbsp;
 <!--    <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--      <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=belovetech&layout=compact&card_width=400&hide_title=true&theme=dark&langs_count=12&hide_border=true&hide_progress=true"> -->
