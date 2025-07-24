@@ -37,7 +37,7 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## :hammer_and_wrench: Languages and Tools :
 <div>
     <p>
-      <a><img src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/Golang-00ADD8?&style=plastic&logo=go&logoColor=white"></a>
       <a><img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"></a>
       <a><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"></a>
       <a><img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"></a>
