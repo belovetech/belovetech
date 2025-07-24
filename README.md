@@ -71,11 +71,7 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--    <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--      <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=belovetech&layout=compact&card_width=400&hide_title=true&theme=dark&langs_count=12&hide_border=true&hide_progress=true"> -->
 <!--      <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech&theme=dark&card_width=400&hide_border=true&langs_count=6&hide_progress=true">
-   </a> --> -->
-
-   <figure>
-     <img src="https://wakatime.com/share/@belovetech/37192a4c-5af2-4d21-8e2a-ba8c597120d6.svg">
-   </figure>
+   </a> -->
   &nbsp;
 </div>
 
@@ -83,6 +79,13 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 💻 Wakatime Weekly Stats:
 
 <div align="center">
+    <figure>
+     <img src="https://wakatime.com/share/@belovetech/37192a4c-5af2-4d21-8e2a-ba8c597120d6.svg">
+   </figure>
+
+    <figure>
+     <img src="https://wakatime.com/share/@belovetech/37192a4c-5af2-4d21-8e2a-ba8c597120d6.svg">
+   </figure>
   
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech&theme=dark" alt="Belovetech's Coding stats" />
