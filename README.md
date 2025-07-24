@@ -80,11 +80,8 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div align="center">
     <figure>
-     <img src="https://wakatime.com/share/@belovetech/37192a4c-5af2-4d21-8e2a-ba8c597120d6.svg">
-   </figure>
-
-    <figure>
-     <img src="https://wakatime.com/share/@belovetech/37192a4c-5af2-4d21-8e2a-ba8c597120d6.svg">
+<!--      <img src="https://wakatime.com/share/@belovetech/37192a4c-5af2-4d21-8e2a-ba8c597120d6.svg"> -->
+      <img src="https://wakatime.com/share/@belovetech/c12dd7c8-7251-427c-affd-029a32eb4515.svg">
    </figure>
   
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=belovetech">
