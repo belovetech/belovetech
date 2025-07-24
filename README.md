@@ -35,36 +35,30 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ## :hammer_and_wrench: Languages and Tools :
-![Website](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
-![Website](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![Website](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Website](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![Website](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
-![Website](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
-![Website](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
-![Website](https://img.shields.io/badge/Nest.js-E0234E?style=plastic&logo=nest.js&logoColor=white)
-![Website](https://img.shields.io/badge/Fast%20API-009688?style=plastic&logo=fastapi&logoColor=white)
-![Website](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
-![Website](https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white)
-![Website](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
-![Website](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
-![Website](https://img.shields.io/badge/REST%20API-FF5733?style=plastic)
-![Website](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql)
-![Website](https://img.shields.io/badge/gRPC-006400?style=plastic&logo=grpc)
-![Website](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
-
-   
-
-   <div>
-      <p>
-         <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"></a>
-      </p>
-      
-     <figure>
-<!--      <img src="https://wakatime.com/share/@belovetech/37192a4c-5af2-4d21-8e2a-ba8c597120d6.svg"> -->
-        <img src="https://wakatime.com/share/@belovetech/c12dd7c8-7251-427c-affd-029a32eb4515.svg">
-     </figure>
-   </div>
+<div>
+    <p>
+      <a><img src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/Nest.js-E0234E?style=plastic&logo=nest.js&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/Fast%20API-009688?style=plastic&logo=fastapi&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/MySQL-00758F?style=plastic&logo=mysql&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/REST%20API-FF5733?style=plastic">
+      <a><img src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql"></a>
+      <a><img src="https://img.shields.io/badge/gRPC-006400?style=plastic&logo=grpc"></a>
+      <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"></a>
+    </p>
+    <figure>
+      <img src="https://wakatime.com/share/@belovetech/c12dd7c8-7251-427c-affd-029a32eb4515.svg">
+    </figure>
+  </div>
 
 
 
