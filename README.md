@@ -60,6 +60,7 @@ A Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--    <img height="145em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=belovetech&layout=compact&card_width=400&hide_title=true&theme=dark&langs_count=12&hide_border=true&hide_progress=true"> -->
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belovetech&theme=dark&card_width=400&hide_border=true&langs_count=6&hide_progress=true">
    </a>
+     <p>🚨 Note: Top Languages reflects the languages in my public code, not my experience or skill level.</p>
    </div>
   </div>
 
